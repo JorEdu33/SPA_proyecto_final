@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    padding: 0;
+    
+    font-family: "Arial", sans-serif; /* Cambiar la fuente de letra al que desees */
+    background-image: url("fondo.jpg"); /* Ruta de la imagen que deseas agregar */
+    background-repeat: no-repeat;
+    background-position: center bottom; /* Centrar la imagen en la parte inferior */
+  }
+
+  div{
+    background-color: rgba(187, 232, 226, 0.4);
+  }
+
+  h1 {
+    font-family: "Georgia", serif; /* Cambia "Georgia", serif por la fuente de letra que desees */
+  }

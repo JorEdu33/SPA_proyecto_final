@@ -1,0 +1,90 @@
+/* registrar-empleado.component.css */
+/* Agregar el color de fondo verde claro al contenedor principal */
+.col-md-6.offset-md-3 {
+    background-color: #ccffcc; /* Cambiar el color de fondo al que desees */
+    padding: 20px; /* Agregar un poco de espaciado interno para separar el contenido del borde */
+  }
+  
+  /* Cambiar el color del texto del encabezado <h3> */
+  h3.text-center {
+    color: #333; /* Cambiar el color del texto al que desees */
+  }
+  
+  /* Cambiar el color de fondo y el texto de las etiquetas <label> */
+  label {
+    background-color: #fff; /* Cambiar el color de fondo al mismo que el contenedor principal para que coincida */
+    color: #333; /* Cambiar el color del texto al que desees */
+  }
+  
+  /* Cambiar el color de fondo y el texto de los campos de entrada <input> */
+  input.form-control {
+    background-color: #ffffff; /* Cambiar el color de fondo al que desees */
+    color: #333; /* Cambiar el color del texto al que desees */
+  }
+  
+  /* Cambiar el color del botón */
+  button.btn.btn-success {
+    background-color: #2aba2a; /* Cambiar el color de fondo al que desees */
+    color: #fff; /* Cambiar el color del texto al que desees */
+    border: none; /* Eliminar el borde del botón si lo deseas */
+  }
+  
+  /* Cambiar el color del botón al pasar el cursor por encima */
+  button.btn.btn-success:hover {
+    background-color: #a536d8; /* Cambiar el color de fondo al que desees */
+  }
+  
+  /* registrar-empleado.component.css */
+  /* Agregar el color de fondo verde claro y cambiar la fuente de letra */
+  .col-md-6.offset-md-3 {
+    background-color: #ccffcc; /* Cambiar el color de fondo al que desees */
+    padding: 20px; /* Agregar un poco de espaciado interno para separar el contenido del borde */
+    font-family: "Arial", sans-serif; /* Cambiar la fuente de letra al que desees */
+  }
+  
+  /* Cambiar el color del texto del encabezado <h3> y la fuente de letra */
+  h3.text-center {
+    color: #333; /* Cambiar el color del texto al que desees */
+    font-family: "Verdana", sans-serif; /* Cambiar la fuente de letra al que desees */
+  }
+  
+  /* Cambiar el color de fondo y el texto de las etiquetas <label> y la fuente de letra */
+  label {
+    background-color: #ccffcc; /* Cambiar el color de fondo al mismo que el contenedor principal para que coincida */
+    color: #333; /* Cambiar el color del texto al que desees */
+    font-family: "Tahoma", sans-serif; /* Cambiar la fuente de letra al que desees */
+  }
+  
+  /* Cambiar el color de fondo y el texto de los campos de entrada <input> y la fuente de letra */
+  input.form-control {
+    background-color: #fff; /* Cambiar el color de fondo al que desees */
+    color: #333; /* Cambiar el color del texto al que desees */
+    font-family: "Courier New", monospace; /* Cambiar la fuente de letra al que desees */
+  }
+  
+  /* Cambiar el color del botón y la fuente de letra */
+  button.btn.btn-success {
+    background-color: #006600; /* Cambiar el color de fondo al que desees */
+    color: #fff; /* Cambiar el color del texto al que desees */
+    border: none; /* Eliminar el borde del botón si lo deseas */
+    font-family: "Georgia", serif; /* Cambiar la fuente de letra al que desees */
+  }
+  
+  /* Cambiar el color del botón al pasar el cursor por encima y la fuente de letra */
+  button.btn.btn-success:hover {
+    background-color: #003300; /* Cambiar el color de fondo al que desees */
+    font-family: "Helvetica Neue", sans-serif; /* Cambiar la fuente de letra al que desees */
+  }
+  
+  
+  
+  
+  body {
+    margin: 0;
+    padding: 0;
+    
+    background-image: url("uis5.jpg"); /* Ruta de la imagen de fondo */
+    background-repeat: no-repeat;
+    background-size: contain;
+    font-family: "Arial", sans-serif;
+  }
